@@ -6,7 +6,10 @@ let isAlive = true;
 let message = "";
 var messageEl = document.getElementById('title_message')
 var sumEl = document.getElementById("sum_el");
+var cardEl = document.getElementById("card-el");
+
 function startGame() {
+  cardEl.textContent = "Cards: " + firstCard + " " + secondCard;
 sumEl.textContent = "Sum: " + sum
   if (sum <= 20) {
     message = "Do you want to draw a new card?";
