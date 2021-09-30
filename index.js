@@ -22,3 +22,9 @@ sumEl.textContent = "Sum: " + sum
   }
 messageEl.textContent = message
 }
+function newCard(){
+  var card = 7
+
+  sum += card
+startGame()
+}

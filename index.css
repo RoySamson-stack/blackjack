@@ -9,7 +9,7 @@ font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans
 color: gold;
 font-weight: bold;
 font-style:italic;
-}.start__button{
+}.start__button, .new__button{
   padding-top: 5px;
   padding-bottom: 5px;
   color: green;
