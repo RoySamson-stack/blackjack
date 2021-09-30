@@ -1,0 +1,18 @@
+body{
+  text-align: center;
+font-size:25px;
+background-image: url(./img/table.jpg);
+color: #fff;
+font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+.main--header{
+color: gold;
+font-weight: bold;
+font-style:italic;
+}.start__button{
+  padding-top: 5px;
+  padding-bottom: 5px;
+  color: green;
+  background-color: gold;
+  border-radius: 12px;
+}
