@@ -2,7 +2,7 @@
 A website that is made using html, css and JS for a simple black jack game and a player is able to play the game until they get blackjack
 #### Author Roy Samson
 ## Description
-View livesite 
+View livesite https://roysamson-stack.github.io/blackjack/
 
 An online black jack game
 ## Application structure
